@@ -94,7 +94,8 @@ clear
 
 ## Deployment
 
-to be added
+Repository - https://github.com/Xero-N/Team-Profile-Generator
+Html Sample - https://github.com/Xero-N/Team-Profile-Generator/blob/main/output/team.html
 
 ## Tests
 
